@@ -1,0 +1,20 @@
+section {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 300px;
+}
+img{
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 200%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+p {
+    margin-top: 170px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+div [alt="LineaDeTiempo"] {
+    border: 0px;
+}
